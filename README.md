@@ -46,10 +46,8 @@ Gosto de unir técnica e estratégia, transformando dados brutos em insights cla
 ### 🧰 Ícones Visuais
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" title="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" title="Oracle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" title="Power BI"/>
@@ -57,7 +55,6 @@ Gosto de unir técnica e estratégia, transformando dados brutos em insights cla
   <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" width="40" title="Excel VBA"/>
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="40" title="Azure Data Factory"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
 </p>
 
