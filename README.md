@@ -11,28 +11,39 @@ Tenho facilidade em entender a necessidade do negócio e traduzi-la em dashboard
 
 ---
 
-## 📌 Um pouco sobre o que faço:
+## 🚀 Tecnologias & Ferramentas
 
-- 📊 Criação de **dashboards dinâmicos e responsivos** com Power BI, usando modelagem dimensional (estrela/snowflake) e DAX avançado;
-- 🔄 **Automatização de tarefas repetitivas** com Power Automate, Python e VBA, integrando ferramentas como Excel, Outlook e SharePoint;
-- 🔎 Coleta, limpeza e transformação de dados usando **SQL (Oracle, SQL Server)**, **Power Query** e **Pandas**, a partir de fontes como SharePoint, planilhas e bancos relacionais;
-- 🧠 Apoio à construção de **análises preditivas** e aplicação de conceitos de Machine Learning com Scikit-Learn;
-- 🔐 Experiência com **governança de dados**, documentação técnica, versionamento e conformidade com a LGPD;
-- 📁 Participação em projetos de **ETL/ELT**, organização de pipelines de dados e suporte a iniciativas de qualidade e padronização de dados.
+🔹 **Power BI** – Desenvolvimento de dashboards interativos com DAX avançado e modelagem dimensional (estrela/snowflake). Atualização automática via gateways e integração com múltiplas fontes.
+
+🔹 **SQL (Oracle, SQL Server, MySQL)** – Criação de queries, procedures e views para análise e transformação de dados. Apoio a rotinas de ETL e análise de performance.
+
+🔹 **Python (Pandas, Scikit-learn)** – Manipulação e limpeza de dados com Pandas, automações, e aplicação de técnicas básicas de Machine Learning para previsão de cenários.
+
+🔹 **Power Automate & VBA** – Automação de tarefas operacionais com fluxos inteligentes, integração com SharePoint, Excel, Outlook e geração de relatórios automatizados.
+
+🔹 **SharePoint & Microsoft 365** – Extração e organização de dados estruturados em listas e integração com relatórios e automações corporativas.
+
+🔹 **Power Apps** – Criação de aplicações low-code para entrada e visualização de dados integrados ao ecossistema Microsoft.
+
+🔹 **Excel Avançado** – Uso de tabelas dinâmicas, fórmulas, dashboards e macros para análises operacionais e estratégicas.
+
+🔹 **ETL / Power Query / Data Warehouse** – Extração e modelagem de dados para criação de pipelines confiáveis. Organização e padronização de bases para BI.
+
+🔹 **Governança de Dados & LGPD** – Participação em iniciativas de padronização, versionamento, documentação técnica e compliance com leis de proteção de dados.
 
 ---
 
-## 🚀 Tecnologias & Ferramentas
+### 🧰 Ícones Visuais
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" title="Oracle"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" title="Pandas"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" title="Power BI"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" title="VS Code"/>
 </p>
 
 ---
@@ -43,11 +54,11 @@ Tenho facilidade em entender a necessidade do negócio e traduzi-la em dashboard
 Instituição: Anhanguera Educacional  
 Previsão de conclusão: Setembro de 2026
 
-Além da graduação, também busco aprendizado contínuo com formações práticas em:
+Complementado por cursos em:
 - SQL para análise de dados
 - Fundamentos de Python e Inteligência Artificial
 - Engenharia de Dados
-- Power BI e Visualização de Dados
+- Power BI e Visualização
 - Big Data e Ciência de Dados
 
 ---
