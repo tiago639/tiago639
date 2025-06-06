@@ -1,6 +1,6 @@
 <h1 align="center">👋 Olá! Sou Tiago Fonseca da Silva</h1>
 <p align="center">
-Engenharia de Dados • Análise de Dados • Inteligência de Mercado • BI • SQL • Python • Power Platform • LGPD
+Engenharia de Dados • Análise de Dados • Inteligência de Mercado • SQL • Python • Power Platform • 
 </p>
 
 ---
