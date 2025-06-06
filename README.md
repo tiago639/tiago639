@@ -1,19 +1,24 @@
-<h1 align="center">👋 Olá, eu sou Tiago Fonseca da Silva</h1>
+<h1 align="center">👋 Olá! Sou Tiago Fonseca da Silva</h1>
 <p align="center">
-Engenharia de Dados • Inteligência de Mercado • Power BI • SQL • Python • Automação
+Engenharia de Dados • Inteligência de Mercado • Power BI • SQL • Python • Automação • BI • LGPD
 </p>
 
 ---
 
-🎯 Profissional com sólida experiência em **Análise e Engenharia de Dados**, atuando no desenvolvimento de soluções analíticas, automações e criação de pipelines para transformar dados em decisões estratégicas.
+🎯 Sou um profissional da área de dados com foco em transformar informações em decisões. Tenho experiência na construção de soluções analíticas, automação de processos e integração de sistemas, sempre com atenção à eficiência, organização e entrega de valor.
 
-Atualmente, trabalho como **Assistente de Dados II** na Kian Importação, com foco em:
-- Automação de processos com **Power Automate**, **Python** e **VBA**
-- Criação de dashboards em **Power BI** com **DAX** e **modelagem dimensional**
-- Integrações com **SharePoint**, **Excel**, **SQL Server** e **Oracle**
-- Apoio à **governança de dados**, conformidade com a **LGPD** e projetos de **Machine Learning**
+Tenho facilidade em entender a necessidade do negócio e traduzi-la em dashboards, scripts e fluxos automatizados que realmente otimizam o dia a dia das equipes. Meu objetivo é sempre facilitar o acesso à informação, melhorar a tomada de decisão e apoiar a evolução dos processos com base em dados reais e confiáveis.
 
-🎓 Estudante de **Tecnologia em Inteligência de Mercado e Análise de Dados** pela Anhanguera.
+---
+
+## 📌 Um pouco sobre o que faço:
+
+- 📊 Criação de **dashboards dinâmicos e responsivos** com Power BI, usando modelagem dimensional (estrela/snowflake) e DAX avançado;
+- 🔄 **Automatização de tarefas repetitivas** com Power Automate, Python e VBA, integrando ferramentas como Excel, Outlook e SharePoint;
+- 🔎 Coleta, limpeza e transformação de dados usando **SQL (Oracle, SQL Server)**, **Power Query** e **Pandas**, a partir de fontes como SharePoint, planilhas e bancos relacionais;
+- 🧠 Apoio à construção de **análises preditivas** e aplicação de conceitos de Machine Learning com Scikit-Learn;
+- 🔐 Experiência com **governança de dados**, documentação técnica, versionamento e conformidade com a LGPD;
+- 📁 Participação em projetos de **ETL/ELT**, organização de pipelines de dados e suporte a iniciativas de qualidade e padronização de dados.
 
 ---
 
@@ -29,6 +34,21 @@ Atualmente, trabalho como **Assistente de Dados II** na Kian Importação, com f
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40"/>
 </p>
+
+---
+
+## 🎓 Formação Acadêmica
+
+📚 Cursando **Tecnologia em Inteligência de Mercado e Análise de Dados**  
+Instituição: Anhanguera Educacional  
+Previsão de conclusão: Setembro de 2026
+
+Além da graduação, também busco aprendizado contínuo com formações práticas em:
+- SQL para análise de dados
+- Fundamentos de Python e Inteligência Artificial
+- Engenharia de Dados
+- Power BI e Visualização de Dados
+- Big Data e Ciência de Dados
 
 ---
 
