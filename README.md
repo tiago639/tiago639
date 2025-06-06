@@ -66,14 +66,6 @@ Gosto de unir técnica e estratégia, transformando dados brutos em insights cla
 🏫 Instituição: Anhanguera Educacional  
 📅 Previsão de conclusão: Setembro de 2026
 
-Complementado por formações práticas em:
-- Fundamentos de Python e Inteligência Artificial
-- SQL para análise de dados
-- Power BI e Visualização de Dados
-- Engenharia de Dados
-- Big Data e Ciência de Dados
-- Automação de Processos e Power Platform
-
 ---
 
 ## 📊 Estatísticas do GitHub
