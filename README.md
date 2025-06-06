@@ -53,7 +53,7 @@ Gosto de unir técnica e estratégia, transformando dados brutos em insights cla
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="40" title="Oracle"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="40" title="SQL Server"/>
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40" title="Power BI"/>
-  <img src="https://img.icons8.com/external-flat-juicy-fish/60/null/external-power-automate-microsoft-flat-flat-juicy-fish.png" width="40" title="Power Automate"/>
+  <img src="https://img.icons8.com/color/48/000000/microsoft-power-automate.png" width="40" title="Power Automate"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-sharepoint-2019.png" width="40" title="SharePoint"/>
   <img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png" width="40" title="Excel VBA"/>
   <img src="https://img.icons8.com/color/48/000000/azure-1.png" width="40" title="Azure Data Factory"/>
