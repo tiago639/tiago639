@@ -88,15 +88,6 @@ Tenho perfil analítico, organizado e orientado a resultados, com forte compromi
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/tiago639?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/github/stars/tiago639?style=for-the-badge"/>
-</p>
-
----
-
 ## 📫 Contato & Networking
 
 📧 **Email:** eloytiago1403@gmail.com  
